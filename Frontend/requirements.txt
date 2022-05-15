@@ -1,0 +1,4 @@
+streamlit==1.9.0
+streamlit-url-fragment
+json5
+boto3
